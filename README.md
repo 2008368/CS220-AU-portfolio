@@ -35,29 +35,31 @@ But, before you submit, please rename both files to contain your student number 
 - 28/11/21 - Made some progress with website on "Notion".
 - 30/11/21 - Completed feedback on essay with first V&R map (713 words).
 - 01/12/21 - Presented progress so far to the class with website and essay.
+- 08/12/21 - Have started to work on new file for website on markdown.
+- 08/12/21 - Updated README.md and index.md
 
 <br>
 
 ## TODO
 
-### Now 01/12/21
-- Look for at least 2 more references for the website.
-- Make more progress on notion with website planning.
-- Carry on with working on essay.
+### Now 08/12/21
+- Carry on with working on website.
+- Add second V&R map for essay and send draft for Krisztian.
+- Make website more aesthetically pleasing.
 
-### By week 9
-- Complete first full draft of essay, obtain feedback.
-- Make progress on website with markdown language.
-- Complete one page of the website (add pictures/ videos)
-
-## by week 10
-- Complete essay, get more feedback and possibly finish.
-- Add references to essay (Chicago Style Referencing).
-- Nearly complete website (obtain feedback).
 <br>
 
-## References
+## References for di-reflection
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
 - Prensky, M., 001. Digital Natives, Digital Immigrants. https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
 - BBC Learn and Revise, n.d. Millennials, baby boomers or Gen Z Which one are you and what does it mean? https://www.bbc.co.uk/bitesize/articles/zf8j92p
+
+<br>
+
+## References for Website
+
+- The horribel aftermath of the SHEIN-pocalypse. Available at: https://www.youtube.com/watch?v=lcXth8KQCqE
+- Consolidating sustainable cotton in Ethiopia. Available at: https://www.traid.org.uk/projects/consolidating-sustainable-cotton-in-ethiopia/
+- The global environmental injustice of fast fashion. Available at: https://link.springer.com/article/10.1186/s12940-018-0433-7?error=cookies_not_supported&error=cookies_not_supported&cod&code=93ca4a96-e960-47b7-a357-2849f5ff0453
+- Slow fashion in a fast fashion world: Promoting sustainability and responsibility. Available at: https://www.mdpi.com/2075-471X/8/4/24/htm
