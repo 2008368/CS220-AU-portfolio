@@ -1,7 +1,11 @@
 # CS220 AU portfolio
 ##  Portofolio Overview
 Maria Demetriou-Digital Portofolio  
-My portoflio will include:
+My portoflio will include: 
+-personal interests and about my life
+-passions and ambitions
+-a future doing something you like
+-being financially stable while doing something that is considered not a safe option
 
 ## Log
 
