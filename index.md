@@ -3,7 +3,7 @@
 
 Hello! My name is Christian Baruela. 
 
-I am a new student at the University of Essex studying a Psychology degree for 3 years. I am originally from London just finishing my A levels where i studied IT, Psychology and Spanish. In my free time, i like to immerse myself in anything musically, whether that is playing instruments, music production or even just listening to music. I have also recently gotten into being a more sustainable individual promoting sustainability in my everyday life.
+I am a new student at the University of Essex studying a Psychology degree for 3 years. I am from London just finishing my A levels where i studied IT, Psychology and Spanish. In my free time, i like to immerse myself in anything musically, whether that is playing instruments, music production or even just listening to music. I have also recently gotten into being a more sustainable individual promoting sustainability in my everyday life.
 
 
 
@@ -11,9 +11,7 @@ I am a new student at the University of Essex studying a Psychology degree for 3
 
 ## social media links
 - [LinkedIn](https://www.linkedin.com/in/christian-baruela-619273220/)
-- [Instagram](https://www.instagram.com/thereelcjay/)
-
-
+- [Instagram](https://www.instagram.com/createdbycjay/)
 
 <br>
 
@@ -23,20 +21,9 @@ I am a new student at the University of Essex studying a Psychology degree for 3
 
 <br>
 
-## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
+## progress
+- I have made a new website discussing fast fashiona and sustainability here: [If not now, then when?](sus.md) 
 
-<br>
-
-## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- new link here: [Sustainability](sus.md) 
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
 
 <br>
 
