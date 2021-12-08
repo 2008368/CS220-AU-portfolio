@@ -18,8 +18,8 @@ I am a new student at the University of Essex studying a Psychology degree for 3
 
 <br>
 
-## Personal Progress
-- I have made a new website discussing fast fashion and sustainability here: [If not now, then when?](sus.md) 
+## personal progress
+- Here i have made a short blog post discussing the negative impacts of the fast fashion industry to the environment and people working in the textile industry and how we can improve this : [If not now, then when?](sus.md) 
 
 
 
