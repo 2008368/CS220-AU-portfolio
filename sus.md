@@ -27,3 +27,10 @@ Roughly 90% of clothing made in the US is made with cotton or polyester which ca
 **Occupational damage**
 
 All production and manufacturing of clothing to fast fashion brands are done in LMIC'S (Low-middle income countries) due to their very cheap labour compared to more developed countries. Although around 90% of clothing are produced in these countries, there are still several safety hazards which can be detrimental to the health of these workers simply because of the poor political infrastructure and organisational management. All of these issues can lead to serious hazards such as respiratory due to poor ventilation from things such as cotton dust and synthetic air particulates and musculoskeletal hazards from repetitive motion tasks.
+
+<br>
+
+## Action taken
+
+**Source: https://www.youtube.com/watch?v=GQG1keSsVEk&t=2s**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQG1keSsVEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Although the fast fashion industry has been detrimental to the damage of our environment and people living and working in the textile industry in LMIC'S, several charities have attempted to make a change and improve practices of harmful chemicles etc to promote a better quality of life for these workers.
