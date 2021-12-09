@@ -33,4 +33,8 @@ All production and manufacturing of clothing to fast fashion brands are done in 
 ## Action taken
 
 **Source: https://www.youtube.com/watch?v=GQG1keSsVEk&t=2s**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GQG1keSsVEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Although the fast fashion industry has been detrimental to the damage of our environment and people living and working in the textile industry in LMIC'S, several charities have attempted to make a change and improve practices of harmful chemicles etc to promote a better quality of life for these workers.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQG1keSsVEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Although the fast fashion industry has been detrimental to the damage of our environment and people living and working in the textile industry in LMIC'S, several charities have attempted to make a change and improve practices of harmful chemicles etc to promote a better quality of life for these workers.
