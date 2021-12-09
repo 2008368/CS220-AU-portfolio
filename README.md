@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-This Github repository contains all necessary files which are part of my AU Portfolio. Below i have a "log" which last listed all the necessary progress I have made since Week 1 and I also have a "to do list" which labels everything which I will do in the upcoming weeks of my deadline.
+<img align="right" width="200" height="183" src="https://c.tenor.com/R1_2M00JvcIAAAAC/catwalk-runway.gif">This Github repository contains all necessary files which are part of my AU Portfolio. Below i have a "log" which last listed all the necessary progress I have made since Week 1 and I also have a "to do list" which labels everything which I will do in the upcoming weeks of my deadline.
 
 <br>
 
