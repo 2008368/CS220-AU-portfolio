@@ -50,7 +50,7 @@ But, before you submit, please rename both files to contain your student number 
 
 <br>
 
-## References for di-reflection
+## References for di-reflection essay
 - White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
 - Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
 - Prensky, M., 001. Digital Natives, Digital Immigrants. https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
