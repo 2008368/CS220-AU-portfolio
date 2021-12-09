@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-<img align="right" width="200" height="183" src="https://c.tenor.com/R1_2M00JvcIAAAAC/catwalk-runway.gif">This Github repository contains all necessary files which are part of my AU Portfolio. Below i have a "log" which last listed all the necessary progress I have made since Week 1 and I also have a "to do list" which labels everything which I will do in the upcoming weeks of my deadline.
+<img align="right" width="200" height="183" src="https://media2.giphy.com/media/l0HlFZ3c4NENSLQRi/giphy.gif?cid=790b7611d1422e6583ea4fa32791ea47cd2c5c51ae017a7a&rid=giphy.gif&ct=g">This Github repository contains all necessary files which are part of my AU Portfolio. Below i have a "log" which last listed all the necessary progress I have made since Week 1 and I also have a "to do list" which labels everything which I will do in the upcoming weeks of my deadline.
 
 <br>
 
