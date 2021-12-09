@@ -32,7 +32,7 @@ All production and manufacturing of clothing to fast fashion brands are done in 
 
 ## Action taken
 
-**Source: Traid " Consolidating sustainable cotton in Ethipoia
+**Source: Traid " Consolidating sustainable cotton in Ethiopia "**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GQG1keSsVEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
