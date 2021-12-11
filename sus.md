@@ -23,6 +23,7 @@ With fashion trends changing as fast as they arrive and the money spent by the w
 
 Roughly 90% of clothing made in the US is made with cotton or polyester which can create multiple health and environmental impacts from the manufacturing process. For example, many practices in factories usually involve doing textile dyeing which can result in several environmental hazards as unreated water which is mixed with the dyes can often be discharged into the local water systems which can release toxicants affecting the health of the environment, also the animals who rely on these water systems for hydration as well as local residents which live in the factories.
 
+<br>
 
 **Occupational damage**
 
