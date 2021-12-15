@@ -38,6 +38,7 @@ But, before you submit, please rename both files to contain your student number 
 - 08/12/21 - Have started to work on new file for website on markdown.
 - 08/12/21 - Updated README.md and index.md
 - 08/12/21 - I have updated my website by adding videos, gif's and images with text from my Notion page.
+- 12/12/21 - Updated sus.md
 
 <br>
 
