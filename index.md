@@ -2,7 +2,7 @@
 
 Hello! My name is Christian Baruela. 
 
-I am a Psychology Student studying at the university of Essex and am currrently a first year. I have previously completed my A levels where I studied Psychology, Spanish and IT. My hobbies range from doing anyting musically to having deep conversations about controversial topics in our society. 
+I am a Psychology Student studying at the university of Essex and am currrently a first year. I have previously completed my A levels where I studied Psychology, Spanish and IT. My hobbies range from doing anyting musically to having deep conversations about controversial topics in our society. Here you can find all my contact details, as well as the projects I have completed prior and the ones that I am doing currently.
 
 <br>
 
