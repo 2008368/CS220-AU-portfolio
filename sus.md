@@ -42,10 +42,11 @@ In general it's safe to say that Gen z take more part in consumerism than prior 
 
 Many of these fast fashion brands may not have negative intentions since a lot of people would argue that these brands tailor for people who may not have as much money and need more affordable prices while also taking part in wearing trendy fashion. 
 
-However the main issue that several people have pointed out are the introduction of "hauls". This is when people spend large amounts of money ranging from roughly $100 to around $500 or even $1000 on these fast fashion brands that sell very cheap clothing. This is seen as an issue because the individuals who do have the luxury to spend a lot money on clothes, choose to spend on these fast fashion brands with very cheap prices and buy hundreds of pieces only for them to end up thrown away or sent to charity shops.
+However the main issue that several people have pointed out are the introduction of "hauls". This is when people spend large amounts of money ranging from roughly  to around  or even  on these fast fashion brands that sell very cheap clothing. This is seen as an issue because the individuals who do have the luxury to spend a lot money on clothes, choose to spend on these fast fashion brands with very cheap prices and buy hundreds of pieces only for them to end up thrown away or sent to charity shops.
 
 The majority of these clothes which are mass produced are done with very cheap materials and most likely in third world countries meaning there is a high chance that cheap labour and harmful conditions are exposed to the workers which is only reinforced and promoted since consumers in more developed countries are feeding into this fast fashion trend. 
 
+<br>
 
 ## Action taken
 
