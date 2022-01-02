@@ -40,6 +40,7 @@ But, before you submit, please rename both files to contain your student number 
 - 08/12/21 - I have updated my website by adding videos, gif's and images with text from my Notion page.
 - 12/12/21 - Updated sus.md
 - 02/01/22 - Updated sus.md
+- 02/01/22 - Updated sus.md by changing the template for website and embedded new videos
 <br>
 
 ## TODO
