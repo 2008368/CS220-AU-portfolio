@@ -2,7 +2,7 @@
 
 Hello! My name is Christian Baruela. 
 
-I am a new student at the University of Essex studying a Psychology degree for 3 years. I am from London just finishing my A levels where I studied IT, Psychology and Spanish. In my free time, i like to immerse myself in anything musically, whether that is playing instruments, music production or even just listening to music. I have also recently gotten into being a more sustainable individual promoting sustainability in my everyday life.
+I am a Psychology Student studying at the university of Essex and am currrently a first year. I have previously completed my A levels where I studied Psychology, Spanish and IT. My hobbies range from doing anyting musically to having deep conversations about controversial topics in our society. 
 
 <br>
 
@@ -18,7 +18,8 @@ I am a new student at the University of Essex studying a Psychology degree for 3
 
 <br>
 
-## personal progress
+## projects
+
 - Here i have made a short blog post discussing the negative impacts of the fast fashion industry to the environment and people working in the textile industry and how we can improve this : [If not now, then when?](sus.md) 
 
 
