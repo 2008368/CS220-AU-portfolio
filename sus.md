@@ -63,8 +63,6 @@ However, the work between Traid and the Ethiopian Bureau of Agrictulture have pr
 
 **Source: Traid " Supporting children of garment workers "**
 
-<br>
-
 ![res](https://www.traid.org.uk/wp-content/uploads/2015/08/ayesha_web.jpg)
 
 <br> 
