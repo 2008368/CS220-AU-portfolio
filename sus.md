@@ -70,10 +70,14 @@ However, the work between Traid and the Ethiopian Bureau of Agrictulture have pr
 <br> 
 
 We previously discussed the negative imapcts of the fast fashion industry on the environment and workers but here we will discuss in depth how garment workers and even their families are being affected by this industry on a daily basis. 
+
 Another project from Traid here shows the negative imapcts and harsh conditions that workers in third world countries have to face. 
-Here in Dhaka, Bangladesh single mothers working in the garment industry are normally forced to leave their children alone whilst they work daily usually living off of a very small salary (roughly £85 pm). 
-These families usually live in slums where very young children who have to live alone are vulnerable to trafficking, sexual assault and other accidents. 
+Here in Dhaka, Bangladesh single mothers working in the garment industry are normally forced to leave their children alone whilst they work daily usually living off of a very small salary (roughly  pm). 
+
+These families usually live in slums where very young children who have to live alone are vulnerable to trafficking, sexual assault and other accidents.
+
 Similarly, these children grow up to having little to no education meaning some of them are forced into illegal work such as drug trafficking.
 However, Childhope UK and Nagorik Uddyog have worked together to form day care centres and drop-in centres for mothers to drop their children while they go off to work. 
+
 This gives many children and infants a chance to obtain a better education which gives them a chance to obtain better jobs in the future to provide for their families hopefully preventing future inter-generational poverty.
 
