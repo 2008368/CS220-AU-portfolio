@@ -55,4 +55,25 @@ The majority of these clothes which are mass produced are done with very cheap m
 
 <br>
 
-Although the fast fashion industry has been detrimental to the damage of our environment and people living and working in the textile industry in LMIC'S, several charities have attempted to make a change and improve practices of harmful chemicles etc to promote a better quality of life for these workers. The video above shows the struggle of cotton farmers in Ethiopia and how the uses of harmful pesticides have negatively affected workers (specifically woman and children) who are vulnerable to harmful pesticides. However, the work between Traid and the Ethiopian Bureau of Agrictulture have promoted organic agriculture which would bring massive health benefits to these communities (approximately 360,000 people) which would be beneficial for these farmers in the future.
+Although the fast fashion industry has been detrimental to the damage of our environment and people living and working in the textile industry in LMIC'S, several charities have attempted to make a change and improve practices of harmful chemicles etc to promote a better quality of life for these workers. 
+The video above shows the struggle of cotton farmers in Ethiopia and how the uses of harmful pesticides have negatively affected workers (specifically woman and children) who are vulnerable to harmful pesticides. 
+However, the work between Traid and the Ethiopian Bureau of Agrictulture have promoted organic agriculture which would bring massive health benefits to these communities (approximately 360,000 people) which would be beneficial for these farmers in the future.
+
+<br>
+
+**Source: Traid " Supporting children of garment workers "**
+
+<br>
+
+![res](https://www.traid.org.uk/wp-content/uploads/2015/08/ayesha_web.jpg)
+
+<br> 
+
+We previously discussed the negative imapcts of the fast fashion industry on the environment and workers but here we will discuss in depth how garment workers and even their families are being affected by this industry on a daily basis. 
+Another project from Traid here shows the negative imapcts and harsh conditions that workers in third world countries have to face. 
+Here in Dhaka, Bangladesh single mothers working in the garment industry are normally forced to leave their children alone whilst they work daily usually living off of a very small salary (roughly £85 pm). 
+These families usually live in slums where very young children who have to live alone are vulnerable to trafficking, sexual assault and other accidents. 
+Similarly, these children grow up to having little to no education meaning some of them are forced into illegal work such as drug trafficking.
+However, Childhope UK and Nagorik Uddyog have worked together to form day care centres and drop-in centres for mothers to drop their children while they go off to work. 
+This gives many children and infants a chance to obtain a better education which gives them a chance to obtain better jobs in the future to provide for their families hopefully preventing future inter-generational poverty.
+
