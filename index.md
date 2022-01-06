@@ -26,6 +26,6 @@ Christian Dior Fall 2000 Ready to Wear
 
 https://assets.vogue.com/photos/5a14ac18fd5d0b7f2d48e0fe/master/w_1920,c_limit/CHRISTIAN-DIOR-FALL-2000-RTW-44-2D3T9798.JPG![image](https://user-images.githubusercontent.com/93942481/148416485-0caa9183-e96c-4c53-9c52-fbb333bc7399.png)
 
-The "Newspaper Dress": A newspaper was created for the runway only and then printed on leather, chiffon and even the reverse side of the fur
+The "Newspaper Dress": A newspaper called "Christian Dior Daily" was created for the runway only and then printed on leather, chiffon and even the reverse side of the fur. Since this day, many brands as well as upcoming designers have been inspired and came out with newspaper printed clothing like tops, pants and even swimwear.
 
 
