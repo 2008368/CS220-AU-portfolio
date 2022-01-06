@@ -38,17 +38,17 @@ But, before you submit, please rename both files to contain your student number 
 - 08/12/21 - Have started to work on new file for website on markdown.
 - 08/12/21 - Updated README.md and index.md
 - 08/12/21 - I have updated my website by adding videos, gif's and images with text from my Notion page.
-- 12/12/21 - Updated sus.md
-- 02/01/22 - Updated sus.md by changing the template for website and embedded new videos
+- 12/12/21 - Updated sus.md.
+- 02/01/22 - Updated sus.md by changing the template for website and embedded new videos.
+- 06/01/22 - Completed sus.md and index.md.
+
 <br>
 
 ## TODO
 
-### Now 08/12/21
-- Carry on with working on website.
-- Add second V&R map for essay and send draft for Krisztian.
-- Make website more aesthetically pleasing.
-
+### Now 06/01/22
+- Complete essay with second V&R map.
+- Complete peer assessment.
 <br>
 
 ## References for di-reflection essay
