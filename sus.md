@@ -79,3 +79,6 @@ However, Childhope UK and Nagorik Uddyog have worked together to form day care c
 
 This gives many children and infants a chance to obtain a better education which gives them a chance to obtain better jobs in the future to provide for their families hopefully preventing future inter-generational poverty.
 
+<br>
+
+## The future of fast fashion 
