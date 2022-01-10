@@ -3,10 +3,9 @@
 -Maria Demetriou-Digital Portofolio  
 -My portoflio will include: 
 
-- personal interests  about my life. 
-- passions and ambitions. 
-- a future doing something you like. 
-- being financially stable while doing something that is considered not a safe option. 
+- exploring some inspirational fashion statements
+- my qualifications and some experiences
+- small intro on my background education
 
 ## Log
 -2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
