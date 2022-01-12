@@ -86,7 +86,7 @@ There is no way of being 100% accurate with the future of the fast fashion indus
 
 However, at our current state there is a very high chance that the future will bring nothing but more negative long term effects to the environment, and society.
 
-Our thirst for leaving good impressions and looking our best for the people we admire or want to fit in with has led to the destruction of ecosystems and families across the globe should be changed. 
+Our thirst for leaving good impressions and looking our best for the people we admire or want to fit in with has led to the destruction of ecosystems and families across the globe.
 
 <br>
 
