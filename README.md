@@ -41,14 +41,8 @@ But, before you submit, please rename both files to contain your student number 
 - 12/12/21 - Updated sus.md.
 - 02/01/22 - Updated sus.md by changing the template for website and embedded new videos.
 - 06/01/22 - Completed sus.md and index.md.
+- 10/01/21 - Completed and submitted.
 
-<br>
-
-## TODO
-
-### Now 06/01/22
-- Complete essay with second V&R map.
-- Complete peer assessment.
 <br>
 
 ## References for di-reflection essay
