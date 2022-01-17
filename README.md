@@ -29,7 +29,7 @@
 - Do the self assesment by 6/01
 - Have the peer assesment by 8/01
 
-##### References for:
+# References for:
 
 # Website:
 - The fashion business by Ian Griffithns, can be found at : https://www.wob.com/en-gb/books/ian-griffiths/fashion-business/9781859733592?gclid=CjwKCAiAz--OBhBIEiwAG1rIOnRnJj8Ax6g6gtxL0GuVnEGRNaLSUMotrkZ6okXuB3Ojb_DfdpCmFhoCS_MQAvD_BwE 
