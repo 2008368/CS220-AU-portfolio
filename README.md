@@ -1,5 +1,5 @@
 # CS220 AU OVERVIEW
-##  Portofolio Overview. 
+##  Portfolio Overview. 
 
 - Website (40% of my mark) 
 - Di- reflection (40% of my mark)
