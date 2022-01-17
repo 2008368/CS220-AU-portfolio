@@ -1,13 +1,13 @@
-# Overview
+# CS220 AU OVERVIEW
 ##  Portofolio Overview. 
 
--My portoflio will include: 
-
-- exploring some inspirational fashion statements
-- my qualifications and some experiences
-- small intro on my background education
+- Website (40% of my mark) 
+- Di- reflection (40% of my mark)
+- Self and Peer assesment (10% of my mark)
+- Portofolio overview (10% of my mark)
 
 ### Log
+
 - 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
 - 2021-10-19 minor grammar and logic changes.  
 - 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos.  
