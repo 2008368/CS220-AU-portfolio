@@ -30,6 +30,7 @@
 - Have the peer assesment by 8/01
 
 ##### References for:
+
 # Website:
 - The fashion business by Ian Griffithns, can be found at : https://www.wob.com/en-gb/books/ian-griffiths/fashion-business/9781859733592?gclid=CjwKCAiAz--OBhBIEiwAG1rIOnRnJj8Ax6g6gtxL0GuVnEGRNaLSUMotrkZ6okXuB3Ojb_DfdpCmFhoCS_MQAvD_BwE 
 - Information about the runway being discussed, can be found at : https://www.vogue.com/fashion-shows/fall-2000-ready-to-wear/christian-dior/slideshow/collection#44
