@@ -1,13 +1,13 @@
 # Overview
 ##  Portofolio Overview. 
--Maria Demetriou-Digital Portofolio  
+
 -My portoflio will include: 
 
 - exploring some inspirational fashion statements
 - my qualifications and some experiences
 - small intro on my background education
 
-## Log
+### Log
 - 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
 - 2021-10-19 minor grammar and logic changes.  
 - 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos.  
@@ -20,7 +20,7 @@
 - 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined.   
 - 2021-09-21 repo created. readme.md added and next steps in the todo heading defined.   
 
-## TODO
+#### TODO
 - Have a draft of the summary/essay by 24/11
 - Go over project ideas for the website and decide on which one to expand by 26/11
 - Add images to my blog by 7/12
