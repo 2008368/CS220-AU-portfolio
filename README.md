@@ -28,3 +28,12 @@
 - Send my essay for feedback by 4/01
 - Do the self assesment by 6/01
 - Have the peer assesment by 8/01
+
+##### References for:
+# Website:
+- The fashion business by Ian Griffithns, can be found at : https://www.wob.com/en-gb/books/ian-griffiths/fashion-business/9781859733592?gclid=CjwKCAiAz--OBhBIEiwAG1rIOnRnJj8Ax6g6gtxL0GuVnEGRNaLSUMotrkZ6okXuB3Ojb_DfdpCmFhoCS_MQAvD_BwE 
+- Information about the runway being discussed, can be found at : https://www.vogue.com/fashion-shows/fall-2000-ready-to-wear/christian-dior/slideshow/collection#44
+
+# Di-reflection:
+- White, D., 2013, Visitors and Resident, can be found at : http://daveowhite.com/vandr/vr-mapping/
+- Prensky, M., 001. Digital Natives, Digital Immigrants, can be found at : https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
