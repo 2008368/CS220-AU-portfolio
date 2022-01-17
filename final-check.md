@@ -25,7 +25,7 @@ I used the `index.md` file
 
 ### Self- and peer-assessment
 In the `assessement.md` file I
-- [ ] familiarised myself with the marking rubric
+- [tick ] familiarised myself with the marking rubric
 - [ ] filled in the self-assessment table
 - [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
