@@ -18,7 +18,7 @@ I am an International student born and raised in Cyprus which is a small island 
 - Won the competition F1 in Schools / nationals
 - Volunteering during covid-19 
 - Design and Technology club member
-- completed 8 ICCSEs
+- Completed 8 ICCSEs
 
 
 # Exploring my favourite 2000s fashion collection
