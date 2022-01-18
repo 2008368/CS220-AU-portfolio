@@ -30,7 +30,12 @@
 - Have the peer assesment by 8/01
 
 #  Why I Chose Github-pages instead of other software developers:
-
+- A huge variety of features
+- Free to use
+- Easy to use
+- Good customer support
+- Video tutorials available
+- Reccomended by lecturer of this module
 
 # References for:
 
@@ -42,3 +47,9 @@
 Di-reflection:
 - White, D., 2013, Visitors and Resident, can be found at : http://daveowhite.com/vandr/vr-mapping/
 - Prensky, M., 001. Digital Natives, Digital Immigrants, can be found at : https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf
+
+
+Github-pages:
+- https://www.getapp.com/website-ecommerce-software/a/wordpress/compare/github/
+- https://stackshare.io/stackups/github-pages-vs-wordpress
+
