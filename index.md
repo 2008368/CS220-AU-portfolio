@@ -33,3 +33,6 @@ The "Newspaper Dress": A newspaper called "Christian Dior Daily" was created for
 # More about John Galliano
 He has been one of the most controversial fashion talents as he as much-anticipated his return to fashion. Following a number of false starts regarding financial backers, he relocated to Paris where he put on his first show as part of Paris Fashion Week in 1989. His financial problems finally came to an end with the help of American Vogue Editor-in-chief Anna Wintour and Andre Leon Talley. Bernard Arnault appointed Galliano as the head designer of Givenchy in 1995, which made him the first British designer to head a French haute couture house.Furthermore he was named British Designer of the Year at the British Fashion Awards in 1987,1994,1995,1997. In October the CFDA had moved Galliano to Dior where they dominated the Nefertiti couture collection, the saddlebag. At present time, Galliano is the creative director of Paris based fashion house of Maison Margiela.
 
+referneces:
+- https://www.businessoffashion.com/community/people/john-galliano
+- https://www.vogue.com/fashion-shows/designer/john-galliano
